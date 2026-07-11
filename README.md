@@ -1,4 +1,5 @@
 # React Blog
+<img width="882" height="601" alt="Screenshot_2" src="https://github.com/user-attachments/assets/5a034360-ca81-4b57-b8d8-313c85726f26" />
 
 A personal blog built with React and Vite.
 
